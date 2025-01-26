@@ -12,7 +12,7 @@ This repository showcases a collection of time series forecasting projects imple
 
 This repository contains time series analysis using various models:
 
-- [Time Series Smoothing](VAR/)
+- [Time Series Smoothing](https://github.com/Aparna-analyst/Time-Series/tree/timeseries_smoothing/)
 - [AR model (AutoRegressive)](https://github.com/Aparna-analyst/Time-Series/blob/AR-model/README.md?plain=1/)
 - [ARIMA (AutoRegressive Integrated Moving Average)](https://github.com/Aparna-analyst/Time-Series/blob/ARIMA-model/README.md?plain=1/)
 - [SARIMA (Seasonal ARIMA)](https://github.com/Aparna-analyst/Time-Series/blob/SARIMA-model/README.md?plain=1/)
