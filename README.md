@@ -10,29 +10,14 @@ This repository showcases a collection of time series forecasting projects imple
 ---
 
 ## **Repository Structure**
-```
-time-series-forecasting/
-│
-├── datasets/                        # All datasets used
-│   ├── 1_Daily_minimum_temps.csv
-│   ├── MaunaLoaDailyTemps.csv
-│   ├── airline-passenger-traffic(1).csv
-│   ├── PCEPersonalSpending.csv
-│   ├── M2SLMoneyStock.csv
-│   ├── Electric_Production.csv
-│
-├── AR_model.ipynb                   # Notebook for AR model
-├── ARIMA_model.ipynb                # Notebook for ARIMA model
-├── SARIMA_model.ipynb               # Notebook for SARIMA model
-├── VAR_model.ipynb                  # Notebook for VAR model
-├── Exponential_Smoothing.ipynb      # Notebook for Exponential Smoothing
-├── Moving_Average.ipynb             # Notebook for Moving Average method
-├── Holt_Winters_Holt_Liners.ipynb   # Notebook for Holt-Winters and Holt’s Linear methods
-├── STL_Decomposition.ipynb          # Notebook for STL Decomposition
-│
-├── README.md                        # Documentation for the repository
-└── LICENSE                          # Optional open-source license
-```
+This repository contains time series analysis using various models:
+
+- [Time Series Smoothing](https://github.com/Aparna-analyst/Time-Series/tree/timeseries_smoothing/)
+- [AR model (AutoRegressive)](https://github.com/Aparna-analyst/Time-Series/blob/AR-model/README.md?plain=1/)
+- [ARIMA (AutoRegressive Integrated Moving Average)](https://github.com/Aparna-analyst/Time-Series/blob/ARIMA-model/README.md?plain=1/)
+- [SARIMA (Seasonal ARIMA)](https://github.com/Aparna-analyst/Time-Series/blob/SARIMA-model/README.md?plain=1/)
+- [VAR (Vector AutoRegression)](https://github.com/Aparna-analyst/Time-Series/blob/VAR-model/README.md?plain=1/)
+
 
 ---
 
