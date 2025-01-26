@@ -14,9 +14,9 @@ This repository contains time series analysis using various models:
 
 - [Time Series Smoothing](VAR/)
 - [AR model (AutoRegressive)](https://github.com/Aparna-analyst/Time-Series/blob/AR-model/README.md?plain=1/)
-- [ARIMA (AutoRegressive Integrated Moving Average)](ARIMA/)
-- [SARIMA (Seasonal ARIMA)](SARIMA/)
-- [VAR (Vector AutoRegression)](VAR/)
+- [ARIMA (AutoRegressive Integrated Moving Average)](https://github.com/Aparna-analyst/Time-Series/blob/ARIMA-model/README.md?plain=1/)
+- [SARIMA (Seasonal ARIMA)](https://github.com/Aparna-analyst/Time-Series/blob/SARIMA-model/README.md?plain=1/)
+- [VAR (Vector AutoRegression)](https://github.com/Aparna-analyst/Time-Series/blob/VAR-model/README.md?plain=1/)
 
 
 
