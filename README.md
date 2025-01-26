@@ -57,7 +57,7 @@ This project is developed in Google Colab. Follow these steps to run the noteboo
 
 ---
 
-## **Projects and Theoretical Background**
+## **Models Included**
 
 ### **1. AR Model (`1_Daily_minimum_temps.csv`)**
 - **Description**: AutoRegressive (AR) models forecast time series data based on past observations. It captures the dependency between a current observation and its lagged values.
