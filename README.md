@@ -8,31 +8,17 @@
 This repository showcases a collection of time series forecasting projects implemented in Python. It covers a variety of models and techniques, including AR, ARIMA, SARIMA, VAR, Exponential Smoothing, Moving Average, Holt-Winters methods, and STL Decomposition. These projects demonstrate forecasting trends, seasonal patterns, and dependencies in time series data using real-world datasets.
 
 ---
+# Repository structure
 
-## **Repository Structure**
-```
-time-series-forecasting/
-│
-├── datasets/                        # All datasets used
-│   ├── 1_Daily_minimum_temps.csv
-│   ├── MaunaLoaDailyTemps.csv
-│   ├── airline-passenger-traffic(1).csv
-│   ├── PCEPersonalSpending.csv
-│   ├── M2SLMoneyStock.csv
-│   ├── Electric_Production.csv
-│
-├── AR_model.ipynb                   # Notebook for AR model
-├── ARIMA_model.ipynb                # Notebook for ARIMA model
-├── SARIMA_model.ipynb               # Notebook for SARIMA model
-├── VAR_model.ipynb                  # Notebook for VAR model
-├── Exponential_Smoothing.ipynb      # Notebook for Exponential Smoothing
-├── Moving_Average.ipynb             # Notebook for Moving Average method
-├── Holt_Winters_Holt_Liners.ipynb   # Notebook for Holt-Winters and Holt’s Linear methods
-├── STL_Decomposition.ipynb          # Notebook for STL Decomposition
-│
-├── README.md                        # Documentation for the repository
-└── LICENSE                          # Optional open-source license
-```
+This repository contains time series analysis using various models:
+
+- [Time Series Smoothing](VAR/)
+- [AR model (AutoRegressive)](ARmodel/)
+- [ARIMA (AutoRegressive Integrated Moving Average)](ARIMA/)
+- [SARIMA (Seasonal ARIMA)](SARIMA/)
+- [VAR (Vector AutoRegression)](VAR/)
+
+
 
 ---
 
